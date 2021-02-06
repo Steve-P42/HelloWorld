@@ -1,3 +1,3 @@
 # Hello, World!
 
-## Are my remote contributions showing up?
+## This should now work and be seen in the map.
